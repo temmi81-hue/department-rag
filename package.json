@@ -12,9 +12,11 @@
     "@langchain/core": "^0.3.43",
     "@langchain/openai": "^0.3.17",
     "@langchain/textsplitters": "^0.1.0",
+    "@types/nodemailer": "^8.0.1",
     "langchain": "^0.3.12",
     "mammoth": "^1.12.2",
     "next": "^14.2.25",
+    "nodemailer": "^10.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
