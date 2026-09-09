@@ -1,0 +1,21 @@
+# 환경변수 및 비밀정보
+.env
+.env.*
+!.env.example
+
+# Next.js
+.next/
+out/
+
+# dependencies
+node_modules/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
